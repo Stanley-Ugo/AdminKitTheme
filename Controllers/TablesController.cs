@@ -6,8 +6,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AdminKitTheme.Controllers
 {
+    [Route("/tables")]
     public class TablesController : Controller
     {
+        [Route("/tables")]
         public IActionResult Index()
         {
             return View();
