@@ -37,3 +37,4 @@ C:\Projects\AdminKitTheme\obj\Debug\netcoreapp3.1\AdminKitTheme.genruntimeconfig
 C:\Projects\AdminKitTheme\obj\Debug\netcoreapp3.1\AdminKitTheme.csproj.CopyComplete
 C:\Projects\AdminKitTheme\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Index.cshtml.g.cs
 C:\Projects\AdminKitTheme\obj\Debug\netcoreapp3.1\Razor\Views\Settings\Index.cshtml.g.cs
+C:\Projects\AdminKitTheme\obj\Debug\netcoreapp3.1\Razor\Views\Invoice\Index.cshtml.g.cs
