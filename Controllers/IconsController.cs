@@ -6,8 +6,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AdminKitTheme.Controllers
 {
+    [Route("/icons")]
     public class IconsController : Controller
     {
+        [Route("/icons")]
         public IActionResult Index()
         {
             return View();
