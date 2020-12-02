@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace AdminKitTheme.Controllers
 {
     [Route("Map")]
-    public class Map_GoogleController : Controller
+    public class MapGoogleController : Controller
     {
         [Route("Map")]
         public IActionResult Index()

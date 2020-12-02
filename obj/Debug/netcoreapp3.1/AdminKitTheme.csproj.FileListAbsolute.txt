@@ -40,3 +40,5 @@ C:\Projects\AdminKitTheme\obj\Debug\netcoreapp3.1\Razor\Views\Settings\Index.csh
 C:\Projects\AdminKitTheme\obj\Debug\netcoreapp3.1\Razor\Views\Invoice\Index.cshtml.g.cs
 C:\Projects\AdminKitTheme\obj\Debug\netcoreapp3.1\Razor\Views\Icons\Index.cshtml.g.cs
 C:\Projects\AdminKitTheme\obj\Debug\netcoreapp3.1\Razor\Views\Tables\Index.cshtml.g.cs
+C:\Projects\AdminKitTheme\obj\Debug\netcoreapp3.1\Razor\Views\Charts\Index.cshtml.g.cs
+C:\Projects\AdminKitTheme\obj\Debug\netcoreapp3.1\Razor\Views\MapGoogle\Index.cshtml.g.cs
