@@ -6,8 +6,12 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AdminKitTheme.Controllers
 {
+    [Route("/profile")]
     public class ProfileController : Controller
     {
+        [Route("")]
+        [Route("/")]
+        [Route("/profile")]
         public IActionResult Index()
         {
             return View();
