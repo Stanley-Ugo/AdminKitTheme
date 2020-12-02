@@ -38,3 +38,5 @@ C:\Projects\AdminKitTheme\obj\Debug\netcoreapp3.1\AdminKitTheme.csproj.CopyCompl
 C:\Projects\AdminKitTheme\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Index.cshtml.g.cs
 C:\Projects\AdminKitTheme\obj\Debug\netcoreapp3.1\Razor\Views\Settings\Index.cshtml.g.cs
 C:\Projects\AdminKitTheme\obj\Debug\netcoreapp3.1\Razor\Views\Invoice\Index.cshtml.g.cs
+C:\Projects\AdminKitTheme\obj\Debug\netcoreapp3.1\Razor\Views\Icons\Index.cshtml.g.cs
+C:\Projects\AdminKitTheme\obj\Debug\netcoreapp3.1\Razor\Views\Tables\Index.cshtml.g.cs
